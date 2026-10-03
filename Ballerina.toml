@@ -1,0 +1,9 @@
+[package]
+org = "sajithjeewanthaintern"
+name = "sentiment_analyzer"
+version = "0.1.0"
+distribution = "2201.13.4"
+title = "Sentiment Analyzer"
+
+[build-options]
+sticky = true
