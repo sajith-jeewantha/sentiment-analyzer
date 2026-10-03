@@ -13,4 +13,8 @@ service / on httpDefaultListener {
         }
     }
 
+    resource function get greeting() returns http:Ok|error {
+        return http:OK;
+    }
+
 }
